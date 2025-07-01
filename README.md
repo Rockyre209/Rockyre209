@@ -11,10 +11,23 @@ I'm obsessed with:
 
 ---
 
-## 🚀 Featured Project
-🎮 [Free Games Claimer](https://github.com/Rockyre209/Free-Games-claimer)  
+## 🚀 Featured Projects
+
+### 🎮 [Free Games Claimer](https://github.com/Rockyre209/Free-Games-claimer)  
 **Find and open real free games from Epic, Steam, GOG, and Ubisoft.**  
 > *"Claim more. Miss less. Auto-style."*
+
+### 📚 [Book Maker](https://github.com/Rockyre209/Book-maker)  
+**Turn plain folders into clean, structured digital books with ease.**  
+> *"Organize your knowledge, one sexy page at a time."*
+
+### 🗂️ [Folder Tree Visualizer](https://github.com/Rockyre209/FolderTreeVisualizer)  
+**Generate beautiful, visual folder trees for your projects.**  
+> *"Because structure is sexy, baby."*
+
+### 🧨 [Multi Tab Launcher](https://github.com/Rockyre209/Multi-tab-launcher)  
+**Launch multiple browser tabs instantly for work, trading, or pleasure.**  
+> *"One click. All your worlds. Open wide~"*
 
 ---
 
