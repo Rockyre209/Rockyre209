@@ -40,7 +40,7 @@ I'm obsessed with:
 ---
 
 ## 🔥 Let’s Connect
-- 💌 Telegram: [Lorky Official Traders](https://t.me/Lorky)
+- 💌 Telegram: [Lorky](https://t.me/Lorky)
 - 🐍 Portfolio & More Projects: *Coming soon* 😉
 
 ---
